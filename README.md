@@ -13,6 +13,10 @@
 - k </br>
 - l </br>
 3. Have fun creating your own drum beats! </br>
+
+## Play the Game
+You can play the game online at the following link: [drum kit](https://dapper-banoffee-2baf4f.netlify.app)
+
 ## Features
 - The application utilizes JavaScript to play different drum sounds based on the keys pressed by the user. </br>
 - The application is easy to use and can be enjoyed by users of all ages. </br>
